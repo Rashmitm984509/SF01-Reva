@@ -5,7 +5,7 @@ public class Emplyee {
 	// 3 proprties
 	int eid;
 	String name;
-	static String company="TNS";
+	static  String company="TNS";
 	
 	Emplyee(int e,String n){
 		eid=e;
